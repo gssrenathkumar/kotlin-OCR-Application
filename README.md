@@ -1,1 +1,1 @@
-# kotlin-OCR-Application
+# Kotlin-OCR-Application
