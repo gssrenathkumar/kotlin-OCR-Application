@@ -21,7 +21,7 @@
 <!-- Video Demo -->
 <h2>Video Demo</h2>
 <p>Check out this video demo of the app:</p>
-<a href="OCR-Live-Demo">Video</a>
+<a href="OCR-Live-Demo.mp4">Video</a>
 
 <!-- Installation Instructions -->
 <h2>Installation Instructions</h2>
